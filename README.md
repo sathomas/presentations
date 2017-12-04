@@ -1,4 +1,0 @@
-presentations
-=============
-
-Version controlled presentations
