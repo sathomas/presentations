@@ -31,5 +31,5 @@
 
 ### Cycle Lengths
 
-![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_ciliength.svg)
+![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_cilength.svg)
 
