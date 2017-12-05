@@ -13,11 +13,7 @@
 
 The equation should appear:
 
-$$\sum\nolimits_{P_i \in Paths(I)} Probes(P_{i})$$
-
-$${C_s}(G) = \frac{ \sum\nolimits&#95;{a} \Pi (a,b,c)}{{\lVert { \{ \;(a,b,c) \in G \;| \;a \to b \to c \; \} } \rVert}}$$
-
-$${C_s}(G) = \frac{{\sum\nolimits_{(a,b,c) \in G\;} {\Pi (a,b,c)} }}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \right\|}}$$
+$${C_s}(G) = \frac{{\sum\nolimits&#95;{(a,b,c) \in G\;} {\Pi (a,b,c)} }}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \right\|}}$$
 
 
 ---
