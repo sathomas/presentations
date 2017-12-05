@@ -3,6 +3,12 @@
 
 ---
 
+### Structural Balance
+
+![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
+
+---
+
 ### Available Data
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_graphs.svg)

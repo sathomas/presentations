@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="146 290 838 612" width="838pt" height="51pc" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-12-05 16:18:15 +0000</dc:date>
+  </metadata>
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Open Sans" font-size="18" panose-1="2 11 6 6 3 5 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="535.15625" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="500">
+      <font-face-src>
+        <font-face-name name="OpenSans"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Open Sans" font-size="20" panose-1="2 11 6 6 3 5 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="535.15625" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="500">
+      <font-face-src>
+        <font-face-name name="OpenSans"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="838" height="612"/>
+    <g>
+      <title>Layer 1</title>
+      <g>
+        <xl:use xl:href="#id575_Graphic" filter="url(#Shadow)"/>
+        <xl:use xl:href="#id574_Graphic" filter="url(#Shadow)"/>
+        <xl:use xl:href="#id567_Graphic" filter="url(#Shadow)"/>
+        <xl:use xl:href="#id564_Graphic" filter="url(#Shadow)"/>
+        <xl:use xl:href="#id562_Graphic" filter="url(#Shadow)"/>
+        <xl:use xl:href="#id561_Graphic" filter="url(#Shadow)"/>
+      </g>
+      <line x1="825.8815" y1="871" x2="879.5" y2="871" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="831.401" y1="858.8022" x2="932.599" y2="803.6978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="822.1832" y1="849.1653" x2="891.8168" y2="733.83475" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="825.8815" y1="712" x2="879.5" y2="712" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="831.401" y1="724.1978" x2="932.599" y2="779.3022" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="822.1832" y1="733.83475" x2="891.8168" y2="849.1653" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="781.401" y1="803.6978" x2="882.599" y2="858.8022" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="781.401" y1="779.3022" x2="882.599" y2="724.1978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="775.8815" y1="791.5" x2="929.5" y2="791.5" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(171.5 295)" fill="#444">
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x=".13134766" y="19" textLength="28.353516">Thr</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="28.124512" y="19" textLength="80.10352">ee Emper</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="107.86768" y="19" textLength="95.00098">ors’ League</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="47.43408" y="43" textLength="108.13184">(1872 - 1881)</tspan>
+      </text>
+      <circle cx="321" cy="383" r="25.00004" fill="white"/>
+      <circle cx="321" cy="383" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(306 369.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="1.2939453" y="21" textLength="27.41211">AH</tspan>
+      </text>
+      <circle cx="321" cy="542" r="25.00004" fill="white"/>
+      <circle cx="321" cy="542" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(306 528.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="8.681641" y="21" textLength="12.636719">It</tspan>
+      </text>
+      <line x1="188.5789" y1="440.90955" x2="211.4211" y2="404.59045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="241.88152" y1="383" x2="295.5" y2="383" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="197.40097" y1="450.3022" x2="298.59903" y2="395.1978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="225" y1="525.1185" x2="225" y2="399.9193" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="211.4211" y1="520.40955" x2="188.5789" y2="484.09045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="334.5789" y1="404.59045" x2="357.4211" y2="440.90955" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="225" cy="383" r="25.00004" fill="white"/>
+      <circle cx="225" cy="383" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(210 369.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="1.2402344" y="21" textLength="27.51953">GB</tspan>
+      </text>
+      <line x1="247.40097" y1="529.8022" x2="348.59903" y2="474.6978" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="238.18324" y1="520.16525" x2="307.81676" y2="404.83475" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="225" cy="542" r="25.00004" fill="white"/>
+      <circle cx="225" cy="542" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(210 528.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="2.680664" y="21" textLength="24.638672">Ru</tspan>
+      </text>
+      <line x1="191.88152" y1="462.5" x2="345.5" y2="462.5" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="175" cy="462.5" r="25.00004" fill="white"/>
+      <circle cx="175" cy="462.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(160 449)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="5.756836" y="21" textLength="18.486328">Fr</tspan>
+      </text>
+      <circle cx="371" cy="462.5" r="25.00004" fill="white"/>
+      <circle cx="371" cy="462.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(356 449)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="2.109375" y="21" textLength="25.78125">Ge</tspan>
+      </text>
+      <text transform="translate(501 295)" fill="#444">
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x=".4375" y="19" textLength="9.958008">T</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="9.499023" y="19" textLength="118.06348">ripple Alliance</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="38.089844" y="43" textLength="51.82031">(1882)</tspan>
+      </text>
+      <line x1="613" y1="525.1185" x2="613" y2="399.88152" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="613" cy="383" r="25.00004" fill="white"/>
+      <circle cx="613" cy="383" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(598 369.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="1.2939453" y="21" textLength="27.41211">AH</tspan>
+      </text>
+      <circle cx="613" cy="542" r="25.00004" fill="white"/>
+      <circle cx="613" cy="542" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(598 528.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="8.681641" y="21" textLength="12.636719">It</tspan>
+      </text>
+      <line x1="480.5789" y1="440.90955" x2="503.4211" y2="404.59045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="533.8815" y1="383" x2="587.5" y2="383" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="489.40097" y1="450.3022" x2="590.599" y2="395.1978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="517" y1="525.1185" x2="517" y2="399.88152" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="503.4211" y1="520.40955" x2="480.5789" y2="484.09045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="626.5789" y1="404.59045" x2="649.4211" y2="440.90955" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="517" cy="383" r="25.00004" fill="white"/>
+      <circle cx="517" cy="383" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(502 369.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="1.2402344" y="21" textLength="27.51953">GB</tspan>
+      </text>
+      <line x1="539.401" y1="529.8022" x2="640.599" y2="474.6978" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="530.18324" y1="520.16525" x2="599.81676" y2="404.83475" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="517" cy="542" r="25.00004" fill="white"/>
+      <circle cx="517" cy="542" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(502 528.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="2.680664" y="21" textLength="24.638672">Ru</tspan>
+      </text>
+      <line x1="483.8815" y1="462.5" x2="637.5" y2="462.5" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="467" cy="462.5" r="25.00004" fill="white"/>
+      <circle cx="467" cy="462.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(452 449)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="5.756836" y="21" textLength="18.486328">Fr</tspan>
+      </text>
+      <circle cx="663" cy="462.5" r="25.00004" fill="white"/>
+      <circle cx="663" cy="462.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(648 449)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" fill="black" x="2.109375" y="21" textLength="25.78125">Ge</tspan>
+      </text>
+      <line x1="626.5789" y1="520.40955" x2="649.4211" y2="484.09045" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(760.5 296)" fill="#444">
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x=".08398438" y="19" textLength="192.83203">Germab-Russian Lapse</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="70.58984" y="43" textLength="51.82031">(1890)</tspan>
+      </text>
+      <line x1="905" y1="526.1185" x2="905" y2="400.88152" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="905" cy="384" r="25.00004" fill="white"/>
+      <circle cx="905" cy="384" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(890 370.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2939453" y="21" textLength="27.41211">AH</tspan>
+      </text>
+      <circle cx="905" cy="543" r="25.00004" fill="white"/>
+      <circle cx="905" cy="543" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(890 529.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="8.681641" y="21" textLength="12.636719">It</tspan>
+      </text>
+      <line x1="772.5789" y1="441.90955" x2="795.4211" y2="405.59045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="825.8815" y1="384" x2="879.5" y2="384" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="781.401" y1="451.3022" x2="882.599" y2="396.1978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="809" y1="526.1185" x2="809" y2="400.88152" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="795.4211" y1="521.40955" x2="772.5789" y2="485.09045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="918.5789" y1="405.59045" x2="941.4211" y2="441.90955" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="809" cy="384" r="25.00004" fill="white"/>
+      <circle cx="809" cy="384" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(794 370.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2402344" y="21" textLength="27.51953">GB</tspan>
+      </text>
+      <line x1="831.401" y1="530.8022" x2="932.599" y2="475.6978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="822.1832" y1="521.16525" x2="891.8168" y2="405.83475" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="809" cy="543" r="25.00004" fill="white"/>
+      <circle cx="809" cy="543" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(794 529.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.680664" y="21" textLength="24.638672">Ru</tspan>
+      </text>
+      <line x1="775.8815" y1="463.5" x2="929.5" y2="463.5" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="759" cy="463.5" r="25.00004" fill="white"/>
+      <circle cx="759" cy="463.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(744 450)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="5.756836" y="21" textLength="18.486328">Fr</tspan>
+      </text>
+      <circle cx="955" cy="463.5" r="25.00004" fill="white"/>
+      <circle cx="955" cy="463.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(940 450)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.109375" y="21" textLength="25.78125">Ge</tspan>
+      </text>
+      <line x1="918.5789" y1="521.40955" x2="941.4211" y2="485.09045" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(174 624)" fill="#444">
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x=".3779297" y="19" textLength="16.637695">Fr</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="16.655273" y="19" textLength="180.9668">ench-Russian Alliance</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="44.93408" y="43" textLength="108.13184">(1891 - 1894)</tspan>
+      </text>
+      <line x1="321" y1="854.1185" x2="321" y2="728.8815" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="321" cy="712" r="25.00004" fill="white"/>
+      <circle cx="321" cy="712" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(306 698.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2939453" y="21" textLength="27.41211">AH</tspan>
+      </text>
+      <circle cx="321" cy="871" r="25.00004" fill="white"/>
+      <circle cx="321" cy="871" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(306 857.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="8.681641" y="21" textLength="12.636719">It</tspan>
+      </text>
+      <line x1="188.5789" y1="769.90955" x2="211.4211" y2="733.59045" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="241.88152" y1="712" x2="295.5" y2="712" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="197.40097" y1="779.3022" x2="298.59903" y2="724.1978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="225" y1="854.1185" x2="225" y2="728.9193" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="211.4211" y1="849.4096" x2="188.5789" y2="813.0904" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="334.5789" y1="733.59045" x2="357.4211" y2="769.90955" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="225" cy="712" r="25.00004" fill="white"/>
+      <circle cx="225" cy="712" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(210 698.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2402344" y="21" textLength="27.51953">GB</tspan>
+      </text>
+      <line x1="247.40097" y1="858.8022" x2="348.59903" y2="803.6978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="238.18324" y1="849.1653" x2="307.81676" y2="733.83475" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="225" cy="871" r="25.00004" fill="white"/>
+      <circle cx="225" cy="871" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(210 857.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.680664" y="21" textLength="24.638672">Ru</tspan>
+      </text>
+      <line x1="191.88152" y1="791.5" x2="345.5" y2="791.5" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="175" cy="791.5" r="25.00004" fill="white"/>
+      <circle cx="175" cy="791.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(160 778)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="5.756836" y="21" textLength="18.486328">Fr</tspan>
+      </text>
+      <circle cx="371" cy="791.5" r="25.00004" fill="white"/>
+      <circle cx="371" cy="791.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(356 778)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.109375" y="21" textLength="25.78125">Ge</tspan>
+      </text>
+      <line x1="334.5789" y1="849.4096" x2="357.4211" y2="813.0904" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(495 624)" fill="#444">
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x=".42578125" y="19" textLength="99.26367">Entente Cor</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="99.3291" y="19" textLength="40.245117">diale</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="44.089844" y="43" textLength="51.82031">(1904)</tspan>
+      </text>
+      <line x1="613" y1="854.1185" x2="613" y2="728.8815" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="613" cy="712" r="25.00004" fill="white"/>
+      <circle cx="613" cy="712" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(598 698.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2939453" y="21" textLength="27.41211">AH</tspan>
+      </text>
+      <circle cx="613" cy="871" r="25.00004" fill="white"/>
+      <circle cx="613" cy="871" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(598 857.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="8.681641" y="21" textLength="12.636719">It</tspan>
+      </text>
+      <line x1="480.5789" y1="769.90955" x2="503.4211" y2="733.59045" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="533.8815" y1="712" x2="587.5" y2="712" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="489.40097" y1="779.3022" x2="590.599" y2="724.1978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="517" y1="854.1185" x2="517" y2="728.8815" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="503.4211" y1="849.4096" x2="480.5789" y2="813.0904" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="626.5789" y1="733.59045" x2="649.4211" y2="769.90955" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="517" cy="712" r="25.00004" fill="white"/>
+      <circle cx="517" cy="712" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(502 698.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2402344" y="21" textLength="27.51953">GB</tspan>
+      </text>
+      <line x1="539.401" y1="858.8022" x2="640.599" y2="803.6978" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="530.18324" y1="849.1653" x2="599.81676" y2="733.83475" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="517" cy="871" r="25.00004" fill="white"/>
+      <circle cx="517" cy="871" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(502 857.5)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.680664" y="21" textLength="24.638672">Ru</tspan>
+      </text>
+      <line x1="483.8815" y1="791.5" x2="637.5" y2="791.5" stroke="#cd0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="467" cy="791.5" r="25.00004" fill="white"/>
+      <circle cx="467" cy="791.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(452 778)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="5.756836" y="21" textLength="18.486328">Fr</tspan>
+      </text>
+      <circle cx="663" cy="791.5" r="25.00004" fill="white"/>
+      <circle cx="663" cy="791.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(648 778)" fill="black">
+        <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.109375" y="21" textLength="25.78125">Ge</tspan>
+      </text>
+      <line x1="626.5789" y1="849.4096" x2="649.4211" y2="813.0904" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(759.5 624)" fill="#444">
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x=".34570312" y="19" textLength="194.3086">British-Russian Alliance</tspan>
+        <tspan font-family="Open Sans" font-size="18" font-weight="500" fill="#444" x="71.58984" y="43" textLength="51.82031">(1907)</tspan>
+      </text>
+      <line x1="905" y1="854.1185" x2="905" y2="728.8815" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="id575_Graphic">
+        <circle cx="905" cy="712" r="25.00004" fill="white"/>
+        <circle cx="905" cy="712" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(890 698.5)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2939453" y="21" textLength="27.41211">AH</tspan>
+        </text>
+      </g>
+      <g id="id574_Graphic">
+        <circle cx="905" cy="871" r="25.00004" fill="white"/>
+        <circle cx="905" cy="871" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(890 857.5)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="500" x="8.681641" y="21" textLength="12.636719">It</tspan>
+        </text>
+      </g>
+      <line x1="772.5789" y1="769.90955" x2="795.4211" y2="733.59045" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="809" y1="854.1185" x2="809" y2="728.8815" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="795.4211" y1="849.4096" x2="772.5789" y2="813.0904" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="918.5789" y1="733.59045" x2="941.4211" y2="769.90955" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="id567_Graphic">
+        <circle cx="809" cy="712" r="25.00004" fill="white"/>
+        <circle cx="809" cy="712" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(794 698.5)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="500" x="1.2402344" y="21" textLength="27.51953">GB</tspan>
+        </text>
+      </g>
+      <g id="id564_Graphic">
+        <circle cx="809" cy="871" r="25.00004" fill="white"/>
+        <circle cx="809" cy="871" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(794 857.5)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.680664" y="21" textLength="24.638672">Ru</tspan>
+        </text>
+      </g>
+      <g id="id562_Graphic">
+        <circle cx="759" cy="791.5" r="25.00004" fill="white"/>
+        <circle cx="759" cy="791.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(744 778)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="500" x="5.756836" y="21" textLength="18.486328">Fr</tspan>
+        </text>
+      </g>
+      <g id="id561_Graphic">
+        <circle cx="955" cy="791.5" r="25.00004" fill="white"/>
+        <circle cx="955" cy="791.5" r="25.00004" stroke="#00797a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(940 778)" fill="black">
+          <tspan font-family="Open Sans" font-size="20" font-weight="500" x="2.109375" y="21" textLength="25.78125">Ge</tspan>
+        </text>
+      </g>
+      <line x1="918.5789" y1="849.4096" x2="941.4211" y2="813.0904" stroke="#7abe00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
