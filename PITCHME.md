@@ -9,7 +9,7 @@
 
 Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-enemy-of-my-enemy/)]
 
----image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
+---?image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
 
 ### Polymicrobial Networks
 
