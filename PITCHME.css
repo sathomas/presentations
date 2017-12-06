@@ -2,3 +2,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.reveal section[data-background-image] {
+  color: white;
+}
