@@ -4,11 +4,26 @@
 }
 
 .reveal section[data-background-image],
-reveal section[data-background-image] h1,
-reveal section[data-background-image] h2,
-reveal section[data-background-image] h3,
-reveal section[data-background-image] h4,
-reveal section[data-background-image] h5,
-reveal section[data-background-image] h6 {
+.reveal section[data-background-image] h1,
+.reveal section[data-background-image] h2,
+.reveal section[data-background-image] h3,
+.reveal section[data-background-image] h4,
+.reveal section[data-background-image] h5,
+.reveal section[data-background-image] h6 {
   color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.reveal section[data-background-image] {
+  position: relative;
+}
+
+.reveal section[data-background-image]:after {
+  background-color: rgba(0,0,0,0.2);
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
