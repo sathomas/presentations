@@ -3,6 +3,12 @@
   box-shadow: none;
 }
 
-.reveal section[data-background-image] {
+.reveal section[data-background-image],
+reveal section[data-background-image] h1,
+reveal section[data-background-image] h2,
+reveal section[data-background-image] h3,
+reveal section[data-background-image] h4,
+reveal section[data-background-image] h5,
+reveal section[data-background-image] h6 {
   color: white;
 }
