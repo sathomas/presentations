@@ -5,7 +5,17 @@
 
 ### Structural Balance
 
-![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
+![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.png)
+
+Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-enemy-of-my-enemy/)]
+
+---
+
+### Polymicrobial Networks
+
+![](https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg)
+
+Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-stained-808158/)]
 
 ---
 
