@@ -15,15 +15,6 @@
 }
 
 .reveal section[data-background-image] {
+  background-color: rgba(0,0,0,0.6);
   position: relative;
-}
-
-.reveal section[data-background-image]:before {
-  background-color: rgba(0,0,0,0.2);
-  bottom: 0;
-  content: "";
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
 }
