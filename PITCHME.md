@@ -11,15 +11,9 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 
 +++
 
-$$\sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
-{ + 1}\\
-{ - 1}\\
-0
-\end{array}} ~~\begin{array}{*{20}{l}}
-{{\rm{if~}}a{\rm{~promotes~}}b}\\
-{{\rm{if~}}a{\rm{~inhibits~}}b}\\
-{{\rm{otherwise}}}
-\end{array}\right.$$
+#### Structural Balance
+
+`$$\sigma (a \to b) = \left\\{ {\begin{array}{*{20}{r}} { + 1} { - 1} 0 \end{array}} ~~\begin{array}{*{20}{l}} {{\rm{if~}}a{\rm{~promotes~}}b} {{\rm{if~}}a{\rm{~inhibits~}}b} {{\rm{otherwise}}} \end{array}\right.$$`
 
 `$$\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)$$`
 
@@ -103,7 +97,7 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 
 #### Signed Clustering Coefficient
 
-| Data set       |  $C$ | $C_s$ |   $S$ |
+| Data set       |   C  |  C~s~ |   S   |
 | :------------- | ---: | ----: | ----: |
 | [Brown]        | 0.93 |  0.00 |  0.00 |
 | [Friedman2017] | 0.87 | -0.04 | -0.04 |
