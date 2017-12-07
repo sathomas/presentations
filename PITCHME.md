@@ -11,7 +11,9 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 
 +++
 
-`$$\sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
+```
+$$
+\sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
 { + 1}\\
 { - 1}\\
 0
@@ -23,7 +25,9 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 
 `\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)`
 
-`\Sigma (a,b,c) = \sigma (a \to b) + \sigma (b \to c) + \sigma (c \to a)$$`
+`\Sigma (a,b,c) = \sigma (a \to b) + \sigma (b \to c) + \sigma (c \to a)
+$$
+```
 
 ---?image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
 
