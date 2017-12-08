@@ -45,7 +45,7 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 
 #### Data Characteristics
 
-| Data set        | Nodes | Edges | mean(k) | Frac(+) | Summary                         |<!-- .element: class="test2" -->
+| Data set        | Nodes | Edges | mean(k) | Frac(+) | Summary                         |<!-- .element: class="test1" -->
 | :-------------- | ----: | ----: | ------: | ------: | :------------------------------ |
 | [Brown]         |    10 |    88 |     8.8 |    0.45 | Cystic Fibrosis lung microbiome |
 | [Bucci2016] (1) |    14 |    23 |     1.6 |    0.65 | Clostridium difficile infection |
