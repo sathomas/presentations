@@ -47,7 +47,6 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_graphs.svg)
 
 +++
-<!-- .slide: data-test="#ff0000" -->
 
 #### Data Characteristics
 
@@ -62,7 +61,6 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 | [Xiao2017]      |     7 |    41 |     5.9 |    0.68 | Synthetic maize root microbiome |
 <!-- .element: style="font-size:50%;margin-top:10vh;" -->
 
-+++
 
 ---
 
@@ -87,7 +85,7 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 
 #### Weak Cycle Index
 
-`$$ci _{weak}= \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;(a \to b \to c \to a)\; \cap \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
+`$$ci _{w}= \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;\Pi (a,b,c) = 1\; \cup \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
 
 ---
 
@@ -113,4 +111,11 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 | [Friedman2017] | 0.87 | -0.04 | -0.04 |
 | [Lo2017]       | 0.08 | -0.05 | -0.67 |
 | [Xiao2017]     | 0.93 | +0.27 | +0.29 |
+
+---
+
+#### Discussion
+
+- Is balance theory valid for polymicrobial networks?
+- Is existing network data for polymicrobial networks valid?
 
