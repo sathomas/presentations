@@ -18,10 +18,10 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 { + 1}\\
 { - 1}\\
 0
-\end{array}}~~{\begin{array}{*{20}{r}}
+\end{array}}~~{\begin{array}{*{20}{l}}
 {{\rm{if~}}a{\rm{~promotes~}}b}\\
-{ - 1}\\
-0
+{{\rm{if~}}a{\rm{~inhibits~}}b}\\
+{{\rm{otherwise}}}
 \end{array}}\right.
 $$`
 
