@@ -13,7 +13,13 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 
 #### Structural Balance
 
-`$$\sigma (a \to b) = \left\\{ {\begin{array}{*{20}{r}} { + 1} { - 1} 0 \end{array}} ~~\begin{array}{*{20}{l}} {{\rm{if~}}a{\rm{~promotes~}}b} {{\rm{if~}}a{\rm{~inhibits~}}b} {{\rm{otherwise}}} \end{array}\right.$$`
+`$$
+\sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
+{ + 1}\\
+{ - 1}\\
+0
+\end{array}}\right.
+$$`
 
 `$$\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)$$`
 
@@ -45,7 +51,7 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 
 #### Data Characteristics
 
-| Data set        | Nodes | Edges | mean(k) | Frac(+) | Summary                         |<!-- .element: class="test1" -->
+| Data set        | Nodes | Edges | mean(k) | Frac(+) | Summary                         |
 | :-------------- | ----: | ----: | ------: | ------: | :------------------------------ |
 | [Brown]         |    10 |    88 |     8.8 |    0.45 | Cystic Fibrosis lung microbiome |
 | [Bucci2016] (1) |    14 |    23 |     1.6 |    0.65 | Clostridium difficile infection |
@@ -54,14 +60,9 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 | [Friedman2017]  |     8 |    53 |     6.6 |    0.74 | Synthetic soil microbiome       |
 | [Lo2017]        |    15 |    35 |     2.3 |    0.40 | Human gut microbiome            |
 | [Xiao2017]      |     7 |    41 |     5.9 |    0.68 | Synthetic maize root microbiome |
-<!-- .element: class="test2" -->
+<!-- .element: style="font-size:50%;margin-top:10vh;" -->
 
 +++
-
-#### Data Characteristics
-
-
-<table style="font-size:50%;margin-top:10vh;"><thead><tr><th style="text-align:left;">Data set</th><th style="text-align:right;">Nodes</th><th style="text-align:right;">Edges</th><th style="text-align:right;">mean(k)</th><th style="text-align:right;">Frac(+)</th><th style="text-align:left;">Summary</th></tr></thead><tbody><tr><td style="text-align:left;">[Brown]</td><td style="text-align:right;">10</td><td style="text-align:right;">88</td><td style="text-align:right;">8.8</td><td style="text-align:right;">0.45</td><td style="text-align:left;">Cystic Fibrosis lung microbiome</td></tr><tr><td style="text-align:left;">[Bucci2016] (1)</td><td style="text-align:right;">14</td><td style="text-align:right;">23</td><td style="text-align:right;">1.6</td><td style="text-align:right;">0.65</td><td style="text-align:left;">Clostridium difficile infection</td></tr><tr><td style="text-align:left;">[Bucci2016] (2)</td><td style="text-align:right;">13</td><td style="text-align:right;">24</td><td style="text-align:right;">1.8</td><td style="text-align:right;">0.50</td><td style="text-align:left;">Germ-free mouse colonization</td></tr><tr><td style="text-align:left;">[deVos2017]</td><td style="text-align:right;">4</td><td style="text-align:right;">6</td><td style="text-align:right;">1.5</td><td style="text-align:right;">0.50</td><td style="text-align:left;">Urinary tract infection</td></tr><tr><td style="text-align:left;">[Friedman2017]</td><td style="text-align:right;">8</td><td style="text-align:right;">53</td><td style="text-align:right;">6.6</td><td style="text-align:right;">0.74</td><td style="text-align:left;">Synthetic soil microbiome</td></tr><tr><td style="text-align:left;">[Lo2017]</td><td style="text-align:right;">15</td><td style="text-align:right;">35</td><td style="text-align:right;">2.3</td><td style="text-align:right;">0.40</td><td style="text-align:left;">Human gut microbiome</td></tr><tr><td style="text-align:left;">[Xiao2017]</td><td style="text-align:right;">7</td><td style="text-align:right;">41</td><td style="text-align:right;">5.9</td><td style="text-align:right;">0.68</td><td style="text-align:left;">Synthetic maize root microbiome</td></tr></tbody></table>
 
 ---
 
