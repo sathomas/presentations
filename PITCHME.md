@@ -19,7 +19,7 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 { - 1}\\
 0
 \end{array}}~~{\begin{array}{*{20}{r}}
-{if~a~promotes~b}\\
+{\rm{if~}a~promotes~b}\\
 { - 1}\\
 0
 \end{array}}\right.
