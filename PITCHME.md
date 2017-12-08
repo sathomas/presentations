@@ -18,6 +18,10 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 { + 1}\\
 { - 1}\\
 0
+\end{array}}~~{\begin{array}{*{20}{r}}
+{ + 1}\\
+{ - 1}\\
+0
 \end{array}}\right.
 $$`
 
@@ -85,7 +89,7 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 
 #### Weak Cycle Index
 
-`$$ci _{w}= \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;\Pi (a,b,c) = 1\; \cup \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
+`$$ci _{w}= \frac{{\left\| {\{ \; \forall \;(a,b,c) \;| \;\Pi (a,b,c) = 1\; \cup \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
 
 ---
 
