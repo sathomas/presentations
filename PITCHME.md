@@ -19,7 +19,7 @@ Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-e
 { - 1}\\
 0
 \end{array}}~~{\begin{array}{*{20}{r}}
-{ + 1}\\
+{{\rm{if~}}a{\rm{~promotes~}}b\\
 { - 1}\\
 0
 \end{array}}\right.
@@ -121,5 +121,5 @@ Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-staine
 #### Discussion
 
 - Is balance theory valid for polymicrobial networks?
-- Is existing network data for polymicrobial networks valid?
+- Is network inference data for polymicrobial networks valid?
 
