@@ -111,8 +111,8 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 - No strong evidence of structural balance in polymicrobial networks.
 - Is data valid?
-     * Current research relies on widely varying approaches for network inference, often incorporating novel mathematical or statistical techniques.
-     * Can structural balance be used to validate network inference techniques?
+     * Current research relies on widely varying approaches for network inference, often incorporating novel mathematical or statistical techniques.<!-- .element: style="font-size:75%;" -->
+     * Can structural balance be used to validate network inference techniques?<!-- .element: style="font-size:75%;" -->
 - Is theory valid?
-     * In directed networks, benefits of balance not reciprocal.
-     * Can balance theory be extended to accommodate fitness costs and benefits of directed interactions.
+     * In directed networks, benefits of balance not reciprocal.<!-- .element: style="font-size:75%;" -->
+     * Can balance theory be extended to accommodate fitness costs and benefits of directed interactions.<!-- .element: style="font-size:75%;" -->
