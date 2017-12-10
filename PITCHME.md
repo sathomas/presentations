@@ -82,9 +82,11 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 ---
 
-#### Cycle Lengths
+#### Arbitrary Cycle Lengths
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_cilength.svg)
+
+- [Xiao2017] shows diminishing strength of structural balance as cycle length increases.
 
 ---
 
@@ -92,11 +94,17 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_c_s.svg)
 
-`$${C_s}(G) = \frac{{\sum\nolimits_{(a,b,c) \in G\;} {\Pi (a,b,c)} }}{{\lVert {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \rVert}}$$`
+`$$C(G) = \frac{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \right\|}}$$`<!-- .element: style="font-size:50%;" -->
+
+`$${C_s}(G) = \frac{{\sum\nolimits_{(a,b,c) \in G\;} {\Pi (a,b,c)} }}{{\lVert {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \rVert}}$$`<!-- .element: style="font-size:50%;" -->
+
+`$$S(G) = \frac{{{C_s}(G)}}{{C(G)}}$$`<!-- .element: style="font-size:50%;" -->
 
 ---
 
 #### Signed Clustering Coefficient
+
+- Relative signed clustering coefficient, `$S(G)$` positive for balanced networks [[Kunegis2014](https://arxiv.org/abs/1402.6865)]
 
 | Data set       |   C  |   Cs  |   S   |
 | :------------- | ---: | ----: | ----: |
