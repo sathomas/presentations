@@ -1,6 +1,18 @@
 ### The Enemy of My Enemy is ?
 ##### Structural Balance in Polymicrobial Networks
 
+---?image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
+
+#### Polymicrobial Networks
+
+- Species can promote the growth of other species (positive interaction)
+- Species can inhibit the growth of other species (negative interaction)
+- Generalized Lotka-Volterra model captures interactions as “adjacency matrix.”
+
+`$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`<!-- .element: style="color:white;" -->
+
+Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-stained-808158/)]
+
 ---
 
 #### Structural Balance
@@ -28,21 +40,6 @@ $$`
 `$$\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)$$`
 
 `$$\Sigma (a,b,c) = \sigma (a \to b) + \sigma (b \to c) + \sigma (c \to a)$$`
-
----?image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
-
-#### Polymicrobial Networks
-
-- Species can promote the growth of other species (positive interaction)
-- Species can inhibit the growth of other species (negative interaction)
-
-Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-stained-808158/)]
-
-+++
-
-#### Community Dynamics
-
-`$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`
 
 ---
 
