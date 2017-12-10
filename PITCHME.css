@@ -8,6 +8,10 @@
   color: #222;
 }
 
+.reveal li li {
+  font-size: 75%;
+}
+
 .reveal section[data-background-image],
 .reveal section[data-background-image] h1,
 .reveal section[data-background-image] h2,
