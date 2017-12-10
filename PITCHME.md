@@ -69,14 +69,14 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 ---
 
-#### Strong Structural Balance
+#### Cycle Index (Strong)
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_cistrong.svg)
 
 
 ---
 
-#### Weak Structural Balance
+#### Cycle Index (Weak)
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_ciweak.svg)
 
