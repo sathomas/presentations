@@ -111,7 +111,7 @@ $$`<!-- .element: style="font-size:50%;" -->
 | [Lo2017]       | 0.08 | -0.05 | -0.67 |
 | [Xiao2017]     | 0.93 | +0.27 | +0.29 |
 
-Relative signed clustering coefficient, `$S(G)$` positive for balanced networks [Kunegis2014]<!-- .element: style="font-size:75%;" -->
+Relative signed clustering coefficient, S(G), positive for balanced networks [Kunegis2014]<!-- .element: style="font-size:75%;" -->
 
 ---
 
