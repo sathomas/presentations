@@ -9,22 +9,15 @@
 - Species can inhibit the growth of other species (negative interaction)
 - Generalized Lotka-Volterra model captures interactions as “adjacency matrix.”
 
-`$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`<!-- .element: style="color:white;" -->
+`$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`<!-- .element: style="color:white;font-size:75%;" -->
 
 ---
 
-#### Structural Balance
-
-![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
-
-+++
-
-#### Structural Balance
+#### Balance Theory
 
 - Directed networks balanced if `$\Pi (a,b,c) = 1$` for all triplets.
 - Weakly balanced if `$\Sigma (a,b,c) \ne 1$` for all triplets
 - Cycle index for partially connected networks
-
 
 `$$
 \sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
@@ -46,15 +39,15 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 `$$ci _{weak}= \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;(a \to b \to c \to a)\; \cap \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`<!-- .element: style="font-size:50%;" -->
 
----
-
-#### Available Data
-
-![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_graphs.svg)
-
 +++
 
-#### Data Characteristics
+#### Structural Balance in the Real World
+
+![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
+
+---
+
+#### Available Data Sets
 
 | Data set        | Nodes | Edges | mean(k) | Frac(+) | Summary                         |
 | :-------------- | ----: | ----: | ------: | ------: | :------------------------------ |
@@ -66,6 +59,12 @@ $$`<!-- .element: style="font-size:50%;" -->
 | [Lo2017]        |    15 |    35 |     2.3 |    0.40 | Human gut microbiome            |
 | [Xiao2017]      |     7 |    41 |     5.9 |    0.68 | Synthetic maize root microbiome |
 <!-- .element: style="font-size:50%;margin-top:10vh;" -->
+
++++
+
+#### Resulting Networks
+
+![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_graphs.svg)
 
 
 ---
@@ -110,6 +109,10 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 #### Discussion
 
-- Is balance theory valid for polymicrobial networks?
-- Is network inference data for polymicrobial networks valid?
-
+- No strong evidence of structural balance in polymicrobial networks.
+- Is data valid?
+     * Current research relies on widely varying approaches for network inference, often incorporating novel mathematical or statistical techniques.
+     * Can structural balance be used to validate network inference techniques?
+- Is theory valid?
+     * In directed networks, benefits of balance not reciprocal.
+     * Can balance theory be extended to accommodate fitness costs and benefits of directed interactions.
