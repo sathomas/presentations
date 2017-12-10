@@ -104,14 +104,14 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 #### Signed Clustering Coefficient
 
-- Relative signed clustering coefficient, `$S(G)$` positive for balanced networks [[Kunegis2014](https://arxiv.org/abs/1402.6865)]
-
 | Data set       |   C  |   Cs  |   S   |
 | :------------- | ---: | ----: | ----: |
 | [Brown]        | 0.93 |  0.00 |  0.00 |
 | [Friedman2017] | 0.87 | -0.04 | -0.04 |
 | [Lo2017]       | 0.08 | -0.05 | -0.67 |
 | [Xiao2017]     | 0.93 | +0.27 | +0.29 |
+
+- Relative signed clustering coefficient, `$S(G)$` positive for balanced networks [[Kunegis2014](https://arxiv.org/abs/1402.6865)]<!-- .element: style="font-size:75%;" -->
 
 ---
 
