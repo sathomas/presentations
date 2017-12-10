@@ -11,19 +11,19 @@
 
 `$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`<!-- .element: style="color:white;" -->
 
-Image from [[Pixabay](https://pixabay.com/en/bacteria-electron-microscope-stained-808158/)]
-
 ---
 
 #### Structural Balance
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
 
-Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-enemy-of-my-enemy/)]
+Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-enemy-of-my-enemy/)]<!-- .element: style="font-size:50%;" -->
 
 +++
 
 #### Structural Balance
+
+- Directed networks balanced if `$\Pi (a,b,c) = 1$` for all triplets.
 
 `$$
 \sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
@@ -39,7 +39,15 @@ $$`
 
 `$$\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)$$`
 
+- Weakly balanced if `$\Sigma (a,b,c) \ne 1$` for all triplets
+
 `$$\Sigma (a,b,c) = \sigma (a \to b) + \sigma (b \to c) + \sigma (c \to a)$$`
+
+- Cycle index: fraction of 3-cycles that are balanced
+
+`$$ci = \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;\Pi (a,b,c) = 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
+
+`$$ci _{weak}= \frac{{\left\| {\{ \; \forall \;(a,b,c) \;| \;\Pi (a,b,c) = 1\; \cup \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
 
 ---
 
