@@ -17,13 +17,14 @@
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
 
-Data from [[Strogatz2010](https://opinionator.blogs.nytimes.com/2010/02/14/the-enemy-of-my-enemy/)]&nbsp;<!-- .element: style="font-size:50%;" -->
-
 +++
 
 #### Structural Balance
 
 - Directed networks balanced if `$\Pi (a,b,c) = 1$` for all triplets.
+- Weakly balanced if `$\Sigma (a,b,c) \ne 1$` for all triplets
+- Cycle index for partially connected networks
+
 
 `$$
 \sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
@@ -39,15 +40,11 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 `$$\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)$$`<!-- .element: style="font-size:50%;" -->
 
-- Weakly balanced if `$\Sigma (a,b,c) \ne 1$` for all triplets
-
 `$$\Sigma (a,b,c) = \sigma (a \to b) + \sigma (b \to c) + \sigma (c \to a)$$`<!-- .element: style="font-size:50%;" -->
-
-- Cycle index: fraction of 3-cycles that are balanced
 
 `$$ci = \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;\Pi (a,b,c) = 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`<!-- .element: style="font-size:50%;" -->
 
-`$$ci _{weak}= \frac{{\left\| {\{ \; \forall \;(a,b,c) \;| \;\Pi (a,b,c) = 1\; \cup \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`<!-- .element: style="font-size:50%;" -->
+`$$ci _{weak}= \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;(a \to b \to c \to a)\; \cap \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`<!-- .element: style="font-size:50%;" -->
 
 ---
 
@@ -77,24 +74,12 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_cistrong.svg)
 
-+++
-
-#### Cycle Index
-
-`$$ci = \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;\Pi (a,b,c) = 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
-
 
 ---
 
 #### Weak Structural Balance
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_ciweak.svg)
-
-+++
-
-#### Weak Cycle Index
-
-`$$ci _{w}= \frac{{\left\| {\{ \; \forall \;(a,b,c) \;| \;\Pi (a,b,c) = 1\; \cup \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}$$`
 
 ---
 
