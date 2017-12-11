@@ -94,6 +94,14 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/o_c_s.svg)
 
+`$$
+\[\begin{array}{*{20}{c}}
+{C(G) = \frac{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \right\|}}}\\
+{{C_s}(G) = \frac{{\sum\nolimits_{(a,b,c) \in G\;} {\Pi (a,b,c)} }}{{\lVert {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \rVert}}}\\
+{S(G) = \frac{{{C_s}(G)}}{{C(G)}}}
+\end{array}\]
+$$`<!-- .element: style="font-size:50%;" -->
+
 `$$C(G) = \frac{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \right\|}}$$`<!-- .element: style="font-size:50%;" -->
 
 `$${C_s}(G) = \frac{{\sum\nolimits_{(a,b,c) \in G\;} {\Pi (a,b,c)} }}{{\lVert {\{ \;(a,b,c) \in G\;|\;a \to b \to c\;\} } \rVert}}$$`<!-- .element: style="font-size:50%;" -->
