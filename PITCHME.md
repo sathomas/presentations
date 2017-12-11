@@ -41,32 +41,6 @@ $$`<!-- .element: style="font-size:50%;" -->
 
 +++
 
-#### Balance Theory
-
-- Directed networks balanced if `$\Pi (a,b,c) = 1$` for all triplets.
-- Weakly balanced if `$\Sigma (a,b,c) \ne 1$` for all triplets
-- Cycle index for partially connected networks
-
-`$$
-\begin{array}{*{20}{l}}
-{\sigma (a \to b) = \left\{ {\begin{array}{*{20}{r}}
-{ + 1}\\
-{ - 1}\\
-0
-\end{array}}~~{\begin{array}{*{20}{l}}
-{{\rm{if~}}a{\rm{~promotes~}}b}\\
-{{\rm{if~}}a{\rm{~inhibits~}}b}\\
-{{\rm{otherwise}}}
-\end{array}}\right.
-\end{array}}\\
-{\Pi (a,b,c) = \sigma (a \to b) \cdot \sigma (b \to c) \cdot \sigma (c \to a)}\\
-{\Sigma (a,b,c) = \sigma (a \to b) + \sigma (b \to c) + \sigma (c \to a)}\\
-{ci = \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;\Pi (a,b,c) = 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}}\\
-{ci _{weak}= \frac{{\left\| {\{ \;(a,b,c) \in G\;| \;(a \to b \to c \to a)\; \cap \;\Sigma (a,b,c) \ne 1\;\} } \right\|}}{{\left\| {\{ \;(a,b,c) \in G\;|\;a \to b \to c \to a\;\} } \right\|}}}
-$$`<!-- .element: style="font-size:50%;" -->
-
-+++
-
 #### Structural Balance in the Real World
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
