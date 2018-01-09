@@ -1,16 +1,6 @@
 ### The Enemy of My Enemy is ?
 ##### Structural Balance in Polymicrobial Networks
 
----?image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
-
-#### Polymicrobial Networks
-
-- Species can promote the growth of other species (positive interaction)
-- Species can inhibit the growth of other species (negative interaction)
-- Generalized Lotka-Volterra model captures interactions as “adjacency matrix.”
-
-`$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`<!-- .element: style="color:white;font-size:75%;" -->
-
 ---
 
 #### Balance Theory
@@ -44,6 +34,16 @@ $$`<!-- .element: style="font-size:50%;" -->
 #### Structural Balance in the Real World
 
 ![](https://rawgit.com/sathomas/presentations/sbalance/assets/alliances.svg)
+
+---?image=https://rawgit.com/sathomas/presentations/sbalance/assets/bacteria-808158_1920.jpg
+
+#### Polymicrobial Networks
+
+- Species can promote the growth of other species (positive interaction)
+- Species can inhibit the growth of other species (negative interaction)
+- Generalized Lotka-Volterra model captures interactions as “adjacency matrix.”
+
+`$${\textstyle{{d{x_i}} \over {dt}}} = {r_i}{x_i}\left( {1 - \sum\limits_{j = 1}^N {{\alpha _{ij}}{x_j}} } \right)$$`<!-- .element: style="color:white;font-size:75%;" -->
 
 ---
 
